@@ -1,0 +1,12 @@
+{
+  "name": "philip-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "High-performance Cyberpunk Architectural Portfolio - 1:1 Edge Mirror on Cloudflare Pages",
+  "scripts": {
+    "deploy": "wrangler pages deploy dist --project-name philip-portfolio --branch main --commit-dirty=true"
+  },
+  "devDependencies": {
+    "wrangler": "^4.158.0"
+  }
+}

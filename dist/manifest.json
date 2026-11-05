@@ -1,0 +1,21 @@
+{
+  "name": "Shenal Diluksha — Senior Software Architect",
+  "short_name": "Shenal Diluksha",
+  "description": "Official portfolio of Shenal Diluksha (shenald-dev) — Senior Software Architect & Creative Vibe Coder.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#02050e",
+  "theme_color": "#00f0ff",
+  "icons": [
+    {
+      "src": "/assets/hero_quantum_core.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/hero_quantum_core.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
